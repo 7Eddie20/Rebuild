@@ -33,8 +33,3 @@ This repository marks my structured reboot of C++ fundamentals and problem-solvi
 - Practice core topics: data types, conditionals, loops  
 - Continue daily pushes and weekly reflections  
 - Slowly add beginner-level DSA problems once C++ foundations are steady
-
----
-
-> “This is not a showcase. This is a rebuild.”  
-Every commit here is proof of showing up. No shortcuts—just clarity and consistency
