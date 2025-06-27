@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# others
+
+Weekly_Reflections\weekly_template.md
