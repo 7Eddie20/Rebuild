@@ -1,6 +1,6 @@
 # 🗓️ Weekly Reflection – Week 01  
 
-**Date Range:** Sun 23 June – Sat 29 June, 2025  
+**Date Range:** Sun 23 June – Sat 28 June, 2025  
 **Theme/Title:** Rebooting the Fundamentals
 
 ---
