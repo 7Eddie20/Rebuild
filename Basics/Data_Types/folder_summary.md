@@ -4,10 +4,12 @@
 
 - data types
 - `<ionip>` + fixed + setprecision()
+- typecasting
 
 ## Files in This Folder
 
 - `bio.cpp` : practiced primitive data types char, int and float, setprecision()
+- `typecasting.cpp` : practiced typecasting on int and float, ascii code display
 
 ## Bugs or Confusions Faced
 
