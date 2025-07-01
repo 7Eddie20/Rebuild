@@ -5,11 +5,13 @@
 - data types
 - `<ionip>` + fixed + setprecision()
 - typecasting
+- `<cctype>` + islower + isupper + tolower +toupper
 
 ## Files in This Folder
 
 - `bio.cpp` : practiced primitive data types char, int and float, setprecision()
 - `typecasting.cpp` : practiced typecasting on int and float, ascii code display
+- `ASCII_manipulation` : practiced changing cases of the character and typecasting
 
 ## Bugs or Confusions Faced
 
