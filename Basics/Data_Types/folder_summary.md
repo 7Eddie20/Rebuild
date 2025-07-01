@@ -16,6 +16,7 @@
 - `fitness.cpp` : practiced boolean concepts
 - `bool.cpp` : practiced boolean
 - `flags.cpp` : AND &&, || OR, NOT !, practice
+- `sizeOf.cpp` : displays the size of 4 primitive data types and their modifier versions 
 
 ## Bugs or Confusions Faced
 
