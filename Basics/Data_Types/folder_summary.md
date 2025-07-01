@@ -12,6 +12,7 @@
 - `bio.cpp` : practiced primitive data types char, int and float, setprecision()
 - `typecasting.cpp` : practiced typecasting on int and float, ascii code display
 - `ASCII_manipulation` : practiced changing cases of the character and typecasting
+- `fitness.cpp` : practiced boolean concepts
 
 ## Bugs or Confusions Faced
 
