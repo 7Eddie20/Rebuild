@@ -6,6 +6,7 @@
 - `<ionip>` + fixed + setprecision()
 - typecasting
 - `<cctype>` + islower + isupper + tolower +toupper
+- boolean and typecasting
 
 ## Files in This Folder
 
@@ -13,6 +14,7 @@
 - `typecasting.cpp` : practiced typecasting on int and float, ascii code display
 - `ASCII_manipulation` : practiced changing cases of the character and typecasting
 - `fitness.cpp` : practiced boolean concepts
+- `bool.cpp` : practiced boolean
 
 ## Bugs or Confusions Faced
 
@@ -24,6 +26,7 @@
 - ionip is a library that helps with manipulation of how data is displayed on the screen
 - fixed improves the precision, always displaying the number of digits after the decimal point
 - setprecision(x) will display the x digits of the float
+- every other number represents TRUE in boolean state, except 0.
 
 ## Next Steps
 
