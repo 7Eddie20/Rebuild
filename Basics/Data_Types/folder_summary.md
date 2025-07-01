@@ -15,6 +15,7 @@
 - `ASCII_manipulation` : practiced changing cases of the character and typecasting
 - `fitness.cpp` : practiced boolean concepts
 - `bool.cpp` : practiced boolean
+- `flags.cpp` : AND &&, || OR, NOT !, practice
 
 ## Bugs or Confusions Faced
 
