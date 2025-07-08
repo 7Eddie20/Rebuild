@@ -1,9 +1,9 @@
-# Topic: [Replace with Folder/Concept Name]
+# Topic: DATA TYPES
 
 ## Concepts Practiced
 
 - data types
-- `<ionip>` + fixed + setprecision()
+- `<iomanip>` + fixed + setprecision()
 - typecasting
 - `<cctype>` + islower + isupper + tolower +toupper
 - boolean and typecasting
@@ -19,6 +19,8 @@
 - `flags.cpp` : AND &&, || OR, NOT !, practice
 - `sizeOf.cpp` : displays the size of 4 primitive data types and their modifier versions
 - `flow.cpp` : program to test the overflow and undeflow
+- `precisionFormatting.cpp` : program to practice various methods of displaying floating point values with different notations
+- `ALLinOne.cpp` : usage of all the previous concepts learnt in one program
 
 ## Bugs or Confusions Faced
 
@@ -27,12 +29,8 @@
 
 ## Key Learnings
 
-- ionip is a library that helps with manipulation of how data is displayed on the screen
+- iomanip is a library that helps with manipulation of how data is displayed on the screen
 - fixed improves the precision, always displaying the number of digits after the decimal point
 - setprecision(x) will display the x digits of the float
 - every other number represents TRUE in boolean state, except 0.
 - When a value exceeds the limits of a data type, it wraps around to the opposite end of its range due to how binary arithmetic works
-
-## Next Steps
-
-- [ ] [Optional: Follow-up tasks, like adding more practice or writing review notes]
