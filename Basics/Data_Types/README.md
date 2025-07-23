@@ -21,6 +21,7 @@
 - `flow.cpp` : program to test the overflow and undeflow
 - `precisionFormatting.cpp` : program to practice various methods of displaying floating point values with different notations
 - `ALLinOne.cpp` : usage of all the previous concepts learnt in one program
+- `variable.cpp` : variable declaration and initialization
 
 ## Bugs or Confusions Faced
 
@@ -31,3 +32,4 @@
 - setprecision(x) will display the x digits of the float
 - every other number represents TRUE in boolean state, except 0.
 - When a value exceeds the limits of a data type, it wraps around to the opposite end of its range due to how binary arithmetic works
+- a garbage value is stored in the variable if variable has no value initialized.
