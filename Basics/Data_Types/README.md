@@ -22,6 +22,7 @@
 - `precisionFormatting.cpp` : program to practice various methods of displaying floating point values with different notations
 - `ALLinOne.cpp` : usage of all the previous concepts learnt in one program
 - `variable.cpp` : variable declaration and initialization
+- `charVar.cpp` : character declaration
 
 ## Bugs or Confusions Faced
 
@@ -33,3 +34,5 @@
 - every other number represents TRUE in boolean state, except 0.
 - When a value exceeds the limits of a data type, it wraps around to the opposite end of its range due to how binary arithmetic works
 - a garbage value is stored in the variable if variable has no value initialized.
+- a char should always be declared in single quotation.
+- if character is numeric, it will be treated as ASCII until it has been declared in quotation.
