@@ -1,4 +1,4 @@
-# Topic: DATA TYPES
+# Topic: DATA TYPES AND VARIABLES
 
 ## Concepts Practiced
 
