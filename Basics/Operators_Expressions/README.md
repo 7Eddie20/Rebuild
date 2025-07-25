@@ -11,6 +11,7 @@
 - `triangleArea.cpp` : practiced operator precedence ; a simple program to calculate the area of a triangle
 - `sumN.cpp` : program to find the sum of n first numbers
 - `sumNloop.cpp` : program to find the sum of n first numbers using for loop
+- `roots.cpp` : program to find the quadratic roots of a quadratic equation
 
 ## Key Learnings
 
