@@ -8,6 +8,7 @@
 
 - `calculator.cpp` : an app to practice the arithmetic operators
 - `ScoreTracker.cpp` : a program to practice the assignment operators
+- `triangleArea.cpp` : practiced operator precedence ; a simple program to calculate the area of a triangle
 
 ## Key Learnings
 
