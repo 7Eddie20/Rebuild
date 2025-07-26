@@ -18,8 +18,11 @@
 - `SI_TR.cpp` : calculates simple interest
 - `volumeCylinder.cpp` : calculates volume of a cylinder
 - `XdistanceY.cpp` : calculates distance between 2 points with coordinates given on a 2d plane
+- `increment.cpp` : demonstrates increment operations
 
 ## Key Learnings
 
 - modulus can only be performed on integers and characters.
 - casting an expression to float preserves decimal precision during division, but casting a variable alone does not modify its type or store the result — hence, assigning the division to a float variable is necessary to retain the correct value.
+- prefix updates the value before assignment, while postfix assigns first and then increments.
+
