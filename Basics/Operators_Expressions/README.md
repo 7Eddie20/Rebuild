@@ -17,7 +17,8 @@
 - `distance.cpp` : program to find the distance travelled
 - `SI_TR.cpp` : calculates simple interest
 - `volumeCylinder.cpp` : calculates volume of a cylinder
-  
+- `XdistanceY.cpp` : calculates distance between 2 points with coordinates given on a 2d plane
+
 ## Key Learnings
 
 - modulus can only be performed on integers and characters.
