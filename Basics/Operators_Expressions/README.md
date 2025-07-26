@@ -13,6 +13,7 @@
 - `sumNloop.cpp` : program to find the sum of n first numbers using for loop
 - `roots.cpp` : program to find the quadratic roots of a quadratic equation
 - `area.cpp` : program to find the area of a circle
+- `displacement.cpp` : program to find the displacement of an object
 
 ## Key Learnings
 
