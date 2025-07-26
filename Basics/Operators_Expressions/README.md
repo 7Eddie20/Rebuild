@@ -16,7 +16,8 @@
 - `displacement.cpp` : program to find the displacement of an object
 - `distance.cpp` : program to find the distance travelled
 - `SI_TR.cpp` : calculates simple interest
-
+- `volumeCylinder.cpp` : calculates volume of a cylinder
+  
 ## Key Learnings
 
 - modulus can only be performed on integers and characters.
