@@ -15,6 +15,7 @@
 - `area.cpp` : program to find the area of a circle
 - `displacement.cpp` : program to find the displacement of an object
 - `distance.cpp` : program to find the distance travelled
+- `SI_TR.cpp` : calculates simple interest
 
 ## Key Learnings
 
