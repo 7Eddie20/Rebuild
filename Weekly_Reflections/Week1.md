@@ -1,6 +1,6 @@
 # 🗓️ Weekly Reflection – Week 01  
 
-**Date Range:** Sun 23 June – Sat 28 June, 2025  
+**Date Range:** Sun 13 July – Sat 19 July, 2025  
 **Theme/Title:** Rebooting the Fundamentals
 
 ---
@@ -69,7 +69,3 @@ Practiced with `getline()`, `cin.ignore()`, `<iomanip>` + fixed + setprecision()
 - Continue building strong commit and reflection habits  
 
 ---
-
-## ✉️ Note to Self  
-
-“This week wasn’t flashy—but it was foundational. Rebuilding isn’t about speed. It’s about stacking truth on top of clarity.”
