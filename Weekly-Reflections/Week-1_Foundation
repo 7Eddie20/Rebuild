@@ -7,14 +7,27 @@
 
 ## ✅ What I Learnt & Practiced This Week
 
-> working of a CPU - how the cpu handles tasks, and the environment, ALU, CU, the IO devices and their buffers, the HDD storage and how main memory interacts with all of it.
+> working of a CPU - the cpu handles tasks, and the environment, ALU, CU, the IO devices and their buffers, the HDD storage and main memory interacts with all of it.
+--
 > binary system and the saga of bits and bytes
+--
 > a computer is a computational device for solving complex computational tasks
+--
 > programming language is the medium between human and the machine to understand the data and instructions
+--
 > low level <> machine language < assembly language < high level language <> high level
+--
 > compiler and interpreter, basically compiler creates the .exe file after computing the source code while interpreter executes the source code line by line.
+--
 > JAVA hybrid model - source code <> (jdk) compiler <> byte code [machine independent] <> (jvm) interpreter <> machine code
+--
 > Operating System is the master software that manages the computer hardware and software resources while providing a platform for applications to run.
+--
+> Object-Oriented Programming (OOP) allows data and related functions to be grouped into classes, which act as blueprints. Inside the main() function (or any function), you can create multiple objects from these classes—each with its own independent data and behavior, based on the class definition.
+--
+> algorithms get translated into source code by humans with help of programming languages; source code which helps computer understand the task.
+--
+> flowcharts show the flow of the program, making the process easier to understand visually
 
 ---
 
@@ -28,13 +41,15 @@
 > bits and bytes
 
 **Monday:**  
-> what is a -- computer; program; programming language and why is there a need for all of them.
+> what is a - computer; program; programming language and why is there a need for all of them.
 > low level languages and high level languages
 > compiler and interpreter: the similarities and the differences
 > the working of the OS, management by the OS.
 
 **Tuesday:**  
-[Write your reflections or bugs fixed, etc.]
+> different programming paradigms:- monolithic, modular, object oriented
+> algorithms; pseudocode and programs
+> flowcharts
 
 **Wednesday:**  
 [Leave blank if nothing was done, or note a revision or insight]
