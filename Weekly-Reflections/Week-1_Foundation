@@ -28,6 +28,8 @@
 > algorithms get translated into source code by humans with help of programming languages; source code which helps computer understand the task.
 --
 > flowcharts show the flow of the program, making the process easier to understand visually
+--
+> In C++, main() is the entry point of your program—where execution begins, and where control returns to the operating system after your code runs.
 
 ---
 
@@ -52,7 +54,8 @@
 > flowcharts
 
 **Wednesday:**  
-[Leave blank if nothing was done, or note a revision or insight]
+> had a peek to the skeleton of a c++ program.
+> main function and how it differs than other functions.
 
 **Thursday:**  
 [Continue the streak!]
