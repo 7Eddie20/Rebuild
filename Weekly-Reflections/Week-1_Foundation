@@ -33,7 +33,11 @@
 --
 > development of a program includes five main steps :- editing (in a IDE) > compiling (by compiler) > linking libraries (during compiling by the linker) > loading (into the saved .exe file into main memory by OS loader) > execution (done by the OS and CPU).
 --
-
+> debugger is a powerful tool letting the developer keep an eye for the code flow and on errors.
+--
+> watch window is where we can add specific variables to see how they interact in the code. call stack keeps the track of the functions called inside the main function and their order of execution.
+--
+> step over executes the next line of code without going into the function, treating the whole function as a single step. step into steps into the function while step out steps out of the function leaving the rest of the steps unexplored.
 
 ---
 
@@ -63,6 +67,7 @@
 
 **Thursday:**  
 > program development :- editing > compiling > linking libraries > loading > execution
+> debugging : step into, step over, step out, watch window, call stack, etc.
 
 **Friday:**  
 [Prep for Saturday’s reflection or wrap-up anything pending]
