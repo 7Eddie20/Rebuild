@@ -30,6 +30,10 @@
 > flowcharts show the flow of the program, making the process easier to understand visually
 --
 > In C++, main() is the entry point of your program—where execution begins, and where control returns to the operating system after your code runs.
+--
+> development of a program includes five main steps :- editing (in a IDE) > compiling (by compiler) > linking libraries (during compiling by the linker) > loading (into the saved .exe file into main memory by OS loader) > execution (done by the OS and CPU).
+--
+
 
 ---
 
@@ -58,7 +62,7 @@
 > main function and how it differs than other functions.
 
 **Thursday:**  
-[Continue the streak!]
+> program development :- editing > compiling > linking libraries > loading > execution
 
 **Friday:**  
 [Prep for Saturday’s reflection or wrap-up anything pending]
