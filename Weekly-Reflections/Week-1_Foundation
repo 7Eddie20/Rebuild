@@ -38,6 +38,8 @@
 > watch window is where we can add specific variables to see how they interact in the code. call stack keeps the track of the functions called inside the main function and their order of execution.
 --
 > step over executes the next line of code without going into the function, treating the whole function as a single step. step into steps into the function while step out steps out of the function leaving the rest of the steps unexplored.
+--
+> every program has a basic structure; required libraries are to be included and main function is where the code gets executed.
 
 ---
 
@@ -69,8 +71,10 @@
 > program development :- editing > compiling > linking libraries > loading > execution
 > debugging : step into, step over, step out, watch window, call stack, etc.
 
-**Friday:**  
-[Prep for Saturday’s reflection or wrap-up anything pending]
+**Friday:**
+> the skeleton of c++ program;
+> the main function; standard libraries; iostream; cout; scope resolution operator; return type
+> 
 
 **Saturday:**  
 [Summarize the week and plan next steps]
