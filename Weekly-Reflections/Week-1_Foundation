@@ -40,6 +40,8 @@
 > step over executes the next line of code without going into the function, treating the whole function as a single step. step into steps into the function while step out steps out of the function leaving the rest of the steps unexplored.
 --
 > every program has a basic structure; required libraries are to be included and main function is where the code gets executed.
+--
+> The semicolon (;) terminates the statement, endl is a output manuplator tasked with ending the line and moving to the next line.
 
 ---
 
@@ -67,23 +69,23 @@
 > had a peek to the skeleton of a c++ program.
 > main function and how it differs than other functions.
 
-**Thursday:**  
+**Thursday:**
 > program development :- editing > compiling > linking libraries > loading > execution
 > debugging : step into, step over, step out, watch window, call stack, etc.
 
 **Friday:**
 > the skeleton of c++ program;
 > the main function; standard libraries; iostream; cout; scope resolution operator; return type
->
+> practiced program with next line commands like endl and \n.
 
-**Saturday:**  
+**Saturday:**
 [Summarize the week and plan next steps]
 
 ---
 
 ### 🧩 Bugs & Fixes
 
-- [Bug or issue] → [How you fixed it]  
+- [Bug or issue] → [How you fixed it]
 - [Another bug] → [Fix or workaround]
 
 ---

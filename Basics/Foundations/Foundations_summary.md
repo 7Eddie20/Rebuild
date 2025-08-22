@@ -2,7 +2,9 @@
 
 ## Concepts Practiced
 
-- [1] endl and \n serves the same task, i.e. skipping to the next line
+1. endl and \n serves the same task, i.e. skipping to the next line
+2. The semicolon (;) is a statement terminator.
+
 - [ ] [Key concept 2]
 - [ ] [Edge case or small insight]
 
