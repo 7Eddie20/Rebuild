@@ -42,6 +42,8 @@
 > every program has a basic structure; required libraries are to be included and main function is where the code gets executed.
 --
 > The semicolon (;) terminates the statement, endl is a output manuplator tasked with ending the line and moving to the next line.
+--
+> cin and cout are for taking input and output, functions present in std namespace of iostream library
 
 ---
 
@@ -79,7 +81,7 @@
 > practiced program with next line commands like endl and \n.
 
 **Saturday:**
-[Summarize the week and plan next steps]
+> cin and cout
 
 ---
 
