@@ -1,6 +1,7 @@
 # 🗓️ Weekly Reflection – Week 002
 
-**Date Range:** Sun 24 AUG – Sat 30 AUG, 2025  
+**Date Range:** Sun 24 AUG – Sat 30 AUG, 2025
+
 **Theme/Title:** _e.g. “Syntax dive
 
 ---

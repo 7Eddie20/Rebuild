@@ -1,6 +1,7 @@
-# 🗓️ Weekly Reflection – Week XXX
+# 🗓️ Weekly Reflection – Week 001
 
 **Date Range:** Sun 10 AUG – Sat 16 AUG, 2025
+
 **Theme/Title:** "Foundations"
 
 ---
