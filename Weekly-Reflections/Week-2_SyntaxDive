@@ -7,9 +7,12 @@
 
 ## ✅ What I Learnt/Practiced This Week
 
-> full line input with getline and delimiter: getline takes the whole input to the buffer unless specifies using a delimiter or a next line is consoled
+> getline takes the whole input to the buffer unless specifies using a delimiter or a next line is consoled
 --
->
+> `cin.ignore()` clears the leftover newline (`\n`) from the input buffer after `cin >>`, so `getline()` can read the next full line properly.
+--
+
+
 
 ---
 
@@ -17,6 +20,7 @@
 
 **Sunday:**  
 > full line input with getline and delimiter
+> cinignore
 
 **Monday:**  
 [Write what you practiced or learned]
