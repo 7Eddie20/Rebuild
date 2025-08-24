@@ -50,35 +50,67 @@
 ### 📆 Day-wise Log
 
 **Sunday:**  
-> Created the github repo
-> Learnt the CPU components and their working,
-> the binary system
-> conversion between binary and decimal and vica verca
-> bits and bytes
+
+1. Created the github repo
+
+2. Learnt the CPU components and their working,
+
+3. the binary system
+
+4. conversion between binary and decimal and vica verca
+
+5. bits and bytes
+
+---
 
 **Monday:**  
-> what is a - computer; program; programming language and why is there a need for all of them.
-> low level languages and high level languages
-> compiler and interpreter: the similarities and the differences
-> the working of the OS, management by the OS.
+
+1. what is a - computer; program; programming language and why is there a need for all of them.
+
+2. low level languages and high level languages
+
+3. compiler and interpreter: the similarities and the differences
+
+4. the working of the OS, management by the OS.
+
+---
 
 **Tuesday:**  
-> different programming paradigms:- monolithic, modular, object oriented
-> algorithms; pseudocode and programs
-> flowcharts
+
+1. different programming paradigms:- monolithic, modular, object oriented
+
+2. algorithms; pseudocode and programs
+
+3. flowcharts
+
+---
 
 **Wednesday:**  
-> had a peek to the skeleton of a c++ program.
-> main function and how it differs than other functions.
+
+1. had a peek to the skeleton of a c++ program.
+
+2. main function and how it differs than other functions.
+
+---
 
 **Thursday:**
-> program development :- editing > compiling > linking libraries > loading > execution
-> debugging : step into, step over, step out, watch window, call stack, etc.
+
+1. program development :- editing > compiling > linking libraries > loading > execution
+
+2. debugging : step into, step over, step out, watch window, call stack, etc.
+
+---
 
 **Friday:**
-> the skeleton of c++ program;
-> the main function; standard libraries; iostream; cout; scope resolution operator; return type
-> practiced program with next line commands like endl and \n.
+
+1. the skeleton of c++ program;
+
+2. the main function; standard libraries; iostream; cout; scope resolution operator; return type
+
+3. practiced program with next line commands like endl and \n.
+
+---
 
 **Saturday:**
-> cin and cout
+
+1. cin and cout
