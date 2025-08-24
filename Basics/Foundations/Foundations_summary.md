@@ -2,14 +2,15 @@
 
 ## Concepts Practiced
 
-1. endl and \n serves the same task, i.e. skipping to the next line
-2. The semicolon (;) is a statement terminator.
-3. cin is for taking the input from console while cout is for giving the output to the console.
+1. endl and \n
+2. The semicolon (;)
+3. cin & cout
+4. full line input with getline and delimiter
 
 ## Files in This Folder
 
 - `add.cpp` – adds augend and the addend and display the sum
-- `02_another_example.cpp` – [Short description]
+- `StringInput.cpp` – showcase the use of getline and delimiter
 - …
 
 ## Bugs or Confusions Faced
@@ -19,7 +20,14 @@
 
 ## Key Learnings
 
-- [Write any realization or concept that clicked during practice]
+> endl and \n serves the same task, i.e. skipping to the next line
+--
+> The semicolon (;) is a statement terminator.
+--
+> cin is for taking the input from console while cout is for giving the output to the console.
+--
+> getline takes the whole input to the buffer unless specifies using a delimiter or a next line is consoled
+--
 
 ## Next Steps
 
