@@ -7,43 +7,43 @@
 
 ## ✅ What I Learnt & Practiced This Week
 
-> working of a CPU - the cpu handles tasks, and the environment, ALU, CU, the IO devices and their buffers, the HDD storage and main memory interacts with all of it.
+1. working of a CPU - the cpu handles tasks, and the environment, ALU, CU, the IO devices and their buffers, the HDD storage and main memory interacts with all of it.
 --
-> binary system and the saga of bits and bytes
+2. binary system and the saga of bits and bytes
 --
-> a computer is a computational device for solving complex computational tasks
+3. a computer is a computational device for solving complex computational tasks
 --
-> programming language is the medium between human and the machine to understand the data and instructions
+4. programming language is the medium between human and the machine to understand the data and instructions
 --
-> low level <> machine language < assembly language < high level language <> high level
+5. low level <> machine language < assembly language < high level language <> high level
 --
-> compiler and interpreter, basically compiler creates the .exe file after computing the source code while interpreter executes the source code line by line.
+6. compiler and interpreter, basically compiler creates the .exe file after computing the source code while interpreter executes the source code line by line.
 --
-> JAVA hybrid model - source code <> (jdk) compiler <> byte code [machine independent] <> (jvm) interpreter <> machine code
+7. JAVA hybrid model - source code <> (jdk) compiler <> byte code [machine independent] <> (jvm) interpreter <> machine code
 --
-> Operating System is the master software that manages the computer hardware and software resources while providing a platform for applications to run.
+8. Operating System is the master software that manages the computer hardware and software resources while providing a platform for applications to run.
 --
-> Object-Oriented Programming (OOP) allows data and related functions to be grouped into classes, which act as blueprints. Inside the main() function (or any function), you can create multiple objects from these classes—each with its own independent data and behavior, based on the class definition.
+9. Object-Oriented Programming (OOP) allows data and related functions to be grouped into classes, which act as blueprints. Inside the main() function (or any function), you can create multiple objects from these classes—each with its own independent data and behavior, based on the class definition.
 --
-> algorithms get translated into source code by humans with help of programming languages; source code which helps computer understand the task.
+10. algorithms get translated into source code by humans with help of programming languages; source code which helps computer understand the task.
 --
-> flowcharts show the flow of the program, making the process easier to understand visually
+11. flowcharts show the flow of the program, making the process easier to understand visually
 --
-> In C++, main() is the entry point of your program—where execution begins, and where control returns to the operating system after your code runs.
+12. In C++, main() is the entry point of your program—where execution begins, and where control returns to the operating system after your code runs.
 --
-> development of a program includes five main steps :- editing (in a IDE) > compiling (by compiler) > linking libraries (during compiling by the linker) > loading (into the saved .exe file into main memory by OS loader) > execution (done by the OS and CPU).
+13. development of a program includes five main steps :- editing (in a IDE) > compiling (by compiler) > linking libraries (during compiling by the linker) > loading (into the saved .exe file into main memory by OS loader) > execution (done by the OS and CPU).
 --
-> debugger is a powerful tool letting the developer keep an eye for the code flow and on errors.
+14. debugger is a powerful tool letting the developer keep an eye for the code flow and on errors.
 --
-> watch window is where we can add specific variables to see how they interact in the code. call stack keeps the track of the functions called inside the main function and their order of execution.
+15. watch window is where we can add specific variables to see how they interact in the code. call stack keeps the track of the functions called inside the main function and their order of execution.
 --
-> step over executes the next line of code without going into the function, treating the whole function as a single step. step into steps into the function while step out steps out of the function leaving the rest of the steps unexplored.
+16. step over executes the next line of code without going into the function, treating the whole function as a single step. step into steps into the function while step out steps out of the function leaving the rest of the steps unexplored.
 --
-> every program has a basic structure; required libraries are to be included and main function is where the code gets executed.
+17. every program has a basic structure; required libraries are to be included and main function is where the code gets executed.
 --
-> The semicolon (;) terminates the statement, endl is a output manuplator tasked with ending the line and moving to the next line.
+18. The semicolon (;) terminates the statement, endl is a output manuplator tasked with ending the line and moving to the next line.
 --
-> cin and cout are for taking input and output, functions present in std namespace of iostream library
+19. cin and cout are for taking input and output, functions present in std namespace of iostream library
 
 ---
 
