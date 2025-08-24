@@ -82,5 +82,3 @@
 
 **Saturday:**
 > cin and cout
-
----
