@@ -14,7 +14,8 @@
 - `add.cpp` – adds augend and the addend and display the sum
 - `StringInput.cpp` – showcase the use of getline and delimiter
 - `CinIgnore.cpp` - Showcases the importance of cin.ignore();
-- `form.cpp` - showcase the usage of istringstream and practice the prior concepts
+- `form.cpp` - showcase the usage of istringstream
+- `bookrating.cpp` - practicing the prior concepts
 
 ## Bugs or Confusions Faced
 
