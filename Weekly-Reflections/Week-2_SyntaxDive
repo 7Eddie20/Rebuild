@@ -11,8 +11,9 @@
 --
 > `cin.ignore()` clears the leftover newline (`\n`) from the input buffer after `cin >>`, so `getline()` can read the next full line properly.
 --
-
-
+> `istringstream` allows you to treat a string like an input stream, enabling word-by-word extraction using the `>>` operator. It's ideal for parsing space-separated data like names, commands, or tokens from a single string.
+--
+>
 
 ---
 
@@ -21,6 +22,7 @@
 **Sunday:**  
 > full line input with getline and delimiter
 > cinignore
+> istringstream - basic
 
 **Monday:**  
 [Write what you practiced or learned]
