@@ -7,22 +7,25 @@
 
 ## ✅ What I Learnt/Practiced This Week
 
-> getline takes the whole input to the buffer unless specifies using a delimiter or a next line is consoled
---
-> `cin.ignore()` clears the leftover newline (`\n`) from the input buffer after `cin >>`, so `getline()` can read the next full line properly.
---
-> `istringstream` allows you to treat a string like an input stream, enabling word-by-word extraction using the `>>` operator. It's ideal for parsing space-separated data like names, commands, or tokens from a single string.
---
->
+1. getline takes the whole input to the buffer unless specifies using a delimiter or a next line is consoled
+
+2. `cin.ignore()` clears the leftover newline (`\n`) from the input buffer after `cin >>`, so `getline()` can read the next full line properly.
+
+3. `istringstream` allows you to treat a string like an input stream, enabling word-by-word extraction using the `>>` operator. It's ideal for parsing space-separated data like names, commands, or tokens from a single string.
 
 ---
 
 ### 📆 Day-wise Log
 
-**Sunday:**  
-> full line input with getline and delimiter
-> cinignore
-> istringstream - basic
+**Sunday:**
+
+1. full line input with getline and delimiter
+
+2. cinignore
+
+3. istringstream - basic
+
+---
 
 **Monday:**  
 [Write what you practiced or learned]
