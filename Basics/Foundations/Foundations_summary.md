@@ -17,10 +17,7 @@
 - `form.cpp` - showcase the usage of istringstream
 - `bookrating.cpp` - practicing the prior concepts
 
-## Bugs or Confusions Faced
-
-- [ ] [Example: Assigned float to int → lost decimals]
-- [ ] [Example: Used = instead of ==]
+---
 
 ## Key Learnings
 
@@ -35,9 +32,9 @@
 > If getline is used after cin >>, it may skip input due to leftover newline characters. we fix it with cinIgnore(). `cin.ignore()` clears the leftover newline (`\n`) from the input buffer after `cin >>`, so `getline()` can read the next full line properly.
 --
 > `istringstream` allows you to treat a string like an input stream, enabling word-by-word extraction using the `>>` operator. It's ideal for parsing space-separated data like names, commands, or tokens from a single string.
---
->
+
+---
 
 ## Next Steps
 
-- [ ] [Optional: Follow-up tasks, like adding more practice or writing review notes]
+- practice data types
