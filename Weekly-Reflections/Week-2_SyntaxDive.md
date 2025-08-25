@@ -16,6 +16,16 @@
 
 4. Instructions are stored in the code segment. Local variables go to the stack. Dynamically allocated data is stored in the heap. Global and static variables reside in the data segment. All of these are part of the main memory.
 
+5. To store more than what th ceiling of a byte permits, we need to add the bytes as required.
+
+6. The variables are given the required memory by the CPU, the larger a data is, the more memory it will be provided.
+
+7. Primitive data types are the basic building blocks of data in programming, representing simple values like integers, characters, booleans, and floating-point numbers.
+
+8. Type modifiers like `short`, `long`, `signed`, and `unsigned` are used to adjust the size and range of primitive data types—`short` and `long` change how much memory a variable uses, while `signed` and `unsigned` control whether it can store negative values or only positives.
+
+9. ASCII (American Standard Code for Information Interchange) is a character encoding system that represents text in computers using numeric codes—each character (like letters, digits, and symbols) is assigned a value from 0 to 127, making it easy for machines to store and process human-readable text.
+
 ---
 
 ### 📆 Day-wise Log
@@ -33,6 +43,18 @@
 **Monday:**  
 
 1. memory storage of data and instructions
+
+2. data and variables and bytes representation
+
+3. primitive data types; integer, character, boolean, floating point - float & double
+
+4. size and range of primitive data types
+
+5. modifiers - signed, unsigned, long, short,
+
+6. memory representation: integers and character
+
+7. ASCII codes
 
 **Tuesday:**  
 [Write your reflections or bugs fixed, etc.]

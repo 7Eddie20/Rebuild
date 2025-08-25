@@ -16,4 +16,4 @@
 
 ## Next Steps
 
-- [1] Step into the basics of c++ programming
+- Step into the basics of c++ programming
