@@ -14,6 +14,8 @@
 
 3. `istringstream` allows you to treat a string like an input stream, enabling word-by-word extraction using the `>>` operator. It's ideal for parsing space-separated data like names, commands, or tokens from a single string.
 
+4. Instructions are stored in the code segment. Local variables go to the stack. Dynamically allocated data is stored in the heap. Global and static variables reside in the data segment. All of these are part of the main memory.
+
 ---
 
 ### 📆 Day-wise Log
@@ -29,7 +31,8 @@
 ---
 
 **Monday:**  
-[Write what you practiced or learned]
+
+1. memory storage of data and instructions
 
 **Tuesday:**  
 [Write your reflections or bugs fixed, etc.]
