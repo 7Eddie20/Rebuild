@@ -32,6 +32,8 @@
 
 12. `sizeof()` gives the amount of bytes a variable will use in the memory.
 
+13. setprecision(n) – Control Decimal Precision
+
 ---
 
 ### 📆 Day-wise Log
@@ -71,6 +73,8 @@
 2. character declaration and complexities
 
 3. `sizeof();`
+
+4. `setprecision(n);`
 
 **Wednesday:**  
 [Leave blank if nothing was done, or note a revision or insight]
