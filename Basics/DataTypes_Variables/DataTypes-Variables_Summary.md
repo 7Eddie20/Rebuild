@@ -6,12 +6,17 @@
 
 1. variables: declaration and initialization
 
+2. character: declaration and complexities
+
+3. `sizeof();`
+
 ---
 
 ## Files in This Folder
 
 - `VarDecInit.cpp`: showcase variable declaration and initialization
-- `CharDecInit`: showcase character declaration and ASCII manipulations with char
+- `CharDecInit.cpp`: showcase character declaration and ASCII manipulations with char
+- `sizeOf.cpp`: showcase various data types and their size
 
 ---
 
@@ -24,6 +29,8 @@
 3. a character stores the ASCII value if the value initialized is numeric and not surrounded by single quotations
 
 4. 2 digits are treated as double characters; throws warning and prints last digit. the result varies across compilers
+
+5. `sizeof()` gives the amount of bytes a variable will use in the memory.
 
 ---
 

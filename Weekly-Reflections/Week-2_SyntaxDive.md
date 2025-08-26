@@ -30,6 +30,8 @@
 
 11. every character should be declared inside the single quotation. A character stores the ASCII value if the value initialized is numeric and not surrounded by single quotations.
 
+12. `sizeof()` gives the amount of bytes a variable will use in the memory.
+
 ---
 
 ### 📆 Day-wise Log
@@ -67,6 +69,8 @@
 1. variables: intro; declaration and initialization
 
 2. character declaration and complexities
+
+3. `sizeof();`
 
 **Wednesday:**  
 [Leave blank if nothing was done, or note a revision or insight]
