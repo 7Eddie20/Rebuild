@@ -28,6 +28,8 @@
 
 10. variables are containers with data type, name, value and assigned memory location used to store data.
 
+11. every character should be declared inside the single quotation. A character stores the ASCII value if the value initialized is numeric and not surrounded by single quotations.
+
 ---
 
 ### 📆 Day-wise Log
@@ -63,6 +65,8 @@
 **Tuesday:**  
 
 1. variables: intro; declaration and initialization
+
+2. character declaration and complexities
 
 **Wednesday:**  
 [Leave blank if nothing was done, or note a revision or insight]
