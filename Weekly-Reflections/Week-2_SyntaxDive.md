@@ -26,6 +26,8 @@
 
 9. ASCII (American Standard Code for Information Interchange) is a character encoding system that represents text in computers using numeric codes—each character (like letters, digits, and symbols) is assigned a value from 0 to 127, making it easy for machines to store and process human-readable text.
 
+10. variables are containers with data type, name, value and assigned memory location used to store data.
+
 ---
 
 ### 📆 Day-wise Log
@@ -56,8 +58,11 @@
 
 7. ASCII codes
 
+---
+
 **Tuesday:**  
-[Write your reflections or bugs fixed, etc.]
+
+1. variables: intro; declaration and initialization
 
 **Wednesday:**  
 [Leave blank if nothing was done, or note a revision or insight]

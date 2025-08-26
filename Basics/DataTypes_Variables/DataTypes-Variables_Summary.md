@@ -4,13 +4,19 @@
 
 ## Concepts Practiced
 
+1. variables: declaration and initialization
+
 ---
 
 ## Files in This Folder
 
+- `VarDecInit.cpp`: showcase variable declaration and initialization
+
 ---
 
 ## Key Learnings
+
+1. a garbage value is stored if variable is not initialized with a value.
 
 ---
 
