@@ -34,6 +34,8 @@
 
 13. setprecision(n) – Control Decimal Precision
 
+14. A boolean is a data type that holds only two possible values: true or false. It's used to control logic flow, especially in conditions and decision-making statements like if, while, or for.
+
 ---
 
 ### 📆 Day-wise Log
@@ -76,8 +78,13 @@
 
 4. `setprecision(n);`
 
+---
+
 **Wednesday:**  
-[Leave blank if nothing was done, or note a revision or insight]
+
+1. boolean data type
+
+---
 
 **Thursday:**  
 [Continue the streak!]

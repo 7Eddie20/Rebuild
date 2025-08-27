@@ -12,6 +12,8 @@
 
 4. `setprecision(n);`
 
+5. boolean data type
+
 ---
 
 ## Files in This Folder
@@ -20,6 +22,7 @@
 - `CharDecInit.cpp`: showcase character declaration and ASCII manipulations with char
 - `sizeOf.cpp`: showcase various data types and their size
 - `SetPrecision.cpp`: showcase the usage of setprecision();
+- `vote.cpp`: showcase boolean data type working.
 
 ---
 
@@ -43,6 +46,8 @@
 8. the placement of variable name while adding the complexities matter. place the variablename before the complexities declared and it won't work.
         cout << "your cgpa is " << fixed << setprecision(2) << cgpa << endl; works
         cout << "your cgpa is " << cgpa << fixed << setprecision(2) << endl; does't work
+
+9. A boolean is a data type that holds only two possible values: true or false. It's used to control logic flow, especially in conditions and decision-making statements like if, while, or for.
 
 ---
 
