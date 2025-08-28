@@ -36,6 +36,10 @@
 
 14. A boolean is a data type that holds only two possible values: true or false. It's used to control logic flow, especially in conditions and decision-making statements like if, while, or for.
 
+15. - A bool:
+            false is represented by 0
+            true is represented by any non-zero value, but usually 1
+
 ---
 
 ### 📆 Day-wise Log
@@ -87,7 +91,10 @@
 ---
 
 **Thursday:**  
-[Continue the streak!]
+
+1. bool 0 and 1;
+
+---
 
 **Friday:**  
 [Prep for Saturday’s reflection or wrap-up anything pending]

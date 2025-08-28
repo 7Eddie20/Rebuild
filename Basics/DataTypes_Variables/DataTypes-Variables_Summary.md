@@ -23,6 +23,7 @@
 - `sizeOf.cpp`: showcase various data types and their size
 - `SetPrecision.cpp`: showcase the usage of setprecision();
 - `vote.cpp`: showcase boolean data type working.
+- `bool01.cpp`: showcase bool value under the hood.
 
 ---
 
@@ -48,6 +49,10 @@
         cout << "your cgpa is " << cgpa << fixed << setprecision(2) << endl; does't work
 
 9. A boolean is a data type that holds only two possible values: true or false. It's used to control logic flow, especially in conditions and decision-making statements like if, while, or for.
+
+10. A bool:
+           false is represented by 0
+           true is represented by any non-zero value, but usually 1
 
 ---
 
