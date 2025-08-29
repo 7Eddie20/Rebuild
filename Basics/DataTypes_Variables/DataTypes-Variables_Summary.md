@@ -24,6 +24,7 @@
 - `SetPrecision.cpp`: showcase the usage of setprecision();
 - `vote.cpp`: showcase boolean data type working.
 - `bool01.cpp`: showcase bool value under the hood.
+- `typecasting.cpp`: showcase basic typecasting; float to int
 
 ---
 
@@ -53,6 +54,8 @@
 10. A bool:
            false is represented by 0
            true is represented by any non-zero value, but usually 1
+
+11. Typecasting is the process of converting a variable from one data type to another to ensure compatibility or precision control in computations.
 
 ---
 

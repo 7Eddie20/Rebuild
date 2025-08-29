@@ -40,6 +40,8 @@
             false is represented by 0
             true is represented by any non-zero value, but usually 1
 
+16. Typecasting is the process of converting a variable from one data type to another to ensure compatibility or precision control in computations.
+
 ---
 
 ### 📆 Day-wise Log
@@ -97,7 +99,10 @@
 ---
 
 **Friday:**  
-[Prep for Saturday’s reflection or wrap-up anything pending]
+
+1. typecasting : intro
+
+---
 
 **Saturday:**  
 [Summarize the week and plan next steps]
