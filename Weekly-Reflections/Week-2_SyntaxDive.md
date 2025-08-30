@@ -105,7 +105,8 @@
 ---
 
 **Saturday:**  
-[Summarize the week and plan next steps]
+
+REVISION
 
 ---
 
