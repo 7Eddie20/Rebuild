@@ -58,6 +58,8 @@
 
 11. Typecasting is the process of converting a variable from one data type to another to ensure compatibility or precision control in computations.
 
+12. fixed and scientific are 2 types of notations permitted by cpp to display the float values.
+
 ---
 
 ## Next Steps
