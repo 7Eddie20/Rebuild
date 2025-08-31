@@ -25,6 +25,7 @@
 - `vote.cpp`: showcase boolean data type working.
 - `bool01.cpp`: showcase bool value under the hood.
 - `typecasting.cpp`: showcase basic typecasting; float to int
+- `Fitness.cpp`: showcase the usage of bool and intro if-else
 
 ---
 
