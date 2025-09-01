@@ -30,7 +30,8 @@
 - `bool01.cpp`: showcase bool value under the hood.
 - `typecasting.cpp`: showcase basic typecasting; float to int
 - `Fitness.cpp`: showcase the usage of bool and intro if-else
-- `Notations.cpp`: showcase scientific and fixed notation with setprecision levels.
+- `Notations.cpp`: showcase scientific and fixed notation with setprecision levels
+- `sumtypecast.cpp`: practice typecasting
 
 ---
 
